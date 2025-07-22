@@ -27,3 +27,15 @@ def country_detail(request, country_name):
 
     raise Http404("Страна не найдена")
 
+
+def languages_view(request):
+    countries = load_countries()
+    languages = set()
+    for country in countries:
+        languages.update(country['languages'])
+
+    languages = sorted(languages)
+    context = {
+        'languages': languages,
+    }
+    return render(request, 'languages.html', context)

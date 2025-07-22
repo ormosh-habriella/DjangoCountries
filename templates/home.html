@@ -10,10 +10,10 @@
 <body class="d-flex justify-content-center align-items-center vh-100">
     <div class="text-center">
         <h1>Добро пожаловать в DjangoCountries!</h1>
-        <a href="countries-list" class="btn" role="button"
+        <a href="{% url 'countries-list' %}" class="btn" role="button"
         style="display: inline-block; width: 150px; background-color: darkcyan; color: #2c3933; font-weight: bolder; margin: 5px">
             Страны</a>
-        <a href="languages" class="btn" role="button"
+        <a href="{% url 'languages' %}" class="btn" role="button"
         style="display: inline-block; width: 150px; background-color: #649b8a; color: #2c3933; font-weight: bolder; margin: 5px">
             Языки</a>
     </div>
