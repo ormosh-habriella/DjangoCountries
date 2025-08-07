@@ -1,7 +1,8 @@
 from django.shortcuts import render, get_object_or_404
 import json
 from django.http import Http404
-from MainApp.models import Country
+from MainApp.models import Country, Language
+
 
 def home_page(request):
     return render(request, 'home.html')
@@ -23,12 +24,8 @@ def country_detail(request, country_name):
 
 
 def languages_view(request):
-    countries = Country.objects.all()
-    languages = set()
-    for country in countries:
-        languages.update(country.languages)
+    languages = Language.objects.all().order_by('language')
 
-    languages = sorted(languages)
     context = {
         'languages': languages,
     }

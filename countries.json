@@ -5,10 +5,10 @@
     "fields": {
         "country": "Aruba",
         "languages": [
-            "Dutch",
-            "English",
-            "Papiamento",
-            "Spanish"
+            1,
+            2,
+            3,
+            4
         ]
     }
 },
@@ -18,11 +18,11 @@
     "fields": {
         "country": "Afghanistan",
         "languages": [
-            "Balochi",
-            "Dari",
-            "Pashto",
-            "Turkmenian",
-            "Uzbek"
+            5,
+            6,
+            7,
+            8,
+            9
         ]
     }
 },
@@ -32,15 +32,15 @@
     "fields": {
         "country": "Angola",
         "languages": [
-            "Ambo",
-            "Chokwe",
-            "Kongo",
-            "Luchazi",
-            "Luimbe-nganguela",
-            "Luvale",
-            "Mbundu",
-            "Nyaneka-nkhumbi",
-            "Ovimbundu"
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18
         ]
     }
 },
@@ -50,7 +50,7 @@
     "fields": {
         "country": "Anguilla",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -60,9 +60,9 @@
     "fields": {
         "country": "Albania",
         "languages": [
-            "Albaniana",
-            "Greek",
-            "Macedonian"
+            19,
+            20,
+            21
         ]
     }
 },
@@ -72,10 +72,10 @@
     "fields": {
         "country": "Andorra",
         "languages": [
-            "Catalan",
-            "French",
-            "Portuguese",
-            "Spanish"
+            4,
+            22,
+            23,
+            24
         ]
     }
 },
@@ -85,9 +85,9 @@
     "fields": {
         "country": "Netherlands Antilles",
         "languages": [
-            "Dutch",
-            "English",
-            "Papiamento"
+            1,
+            2,
+            3
         ]
     }
 },
@@ -97,8 +97,8 @@
     "fields": {
         "country": "United Arab Emirates",
         "languages": [
-            "Arabic",
-            "Hindi"
+            25,
+            26
         ]
     }
 },
@@ -108,9 +108,9 @@
     "fields": {
         "country": "Argentina",
         "languages": [
-            "Indian Languages",
-            "Italian",
-            "Spanish"
+            4,
+            27,
+            28
         ]
     }
 },
@@ -120,8 +120,8 @@
     "fields": {
         "country": "Armenia",
         "languages": [
-            "Armenian",
-            "Azerbaijani"
+            29,
+            30
         ]
     }
 },
@@ -131,9 +131,9 @@
     "fields": {
         "country": "American Samoa",
         "languages": [
-            "English",
-            "Samoan",
-            "Tongan"
+            2,
+            31,
+            32
         ]
     }
 },
@@ -143,8 +143,8 @@
     "fields": {
         "country": "Antigua and Barbuda",
         "languages": [
-            "Creole English",
-            "English"
+            2,
+            33
         ]
     }
 },
@@ -154,14 +154,14 @@
     "fields": {
         "country": "Australia",
         "languages": [
-            "Arabic",
-            "Canton Chinese",
-            "English",
-            "German",
-            "Greek",
-            "Italian",
-            "Serbo-Croatian",
-            "Vietnamese"
+            2,
+            20,
+            25,
+            28,
+            34,
+            35,
+            36,
+            37
         ]
     }
 },
@@ -171,14 +171,14 @@
     "fields": {
         "country": "Austria",
         "languages": [
-            "Czech",
-            "German",
-            "Hungarian",
-            "Polish",
-            "Romanian",
-            "Serbo-Croatian",
-            "Slovene",
-            "Turkish"
+            35,
+            36,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43
         ]
     }
 },
@@ -188,10 +188,10 @@
     "fields": {
         "country": "Azerbaijan",
         "languages": [
-            "Armenian",
-            "Azerbaijani",
-            "Lezgian",
-            "Russian"
+            29,
+            30,
+            44,
+            45
         ]
     }
 },
@@ -201,9 +201,9 @@
     "fields": {
         "country": "Burundi",
         "languages": [
-            "French",
-            "Kirundi",
-            "Swahili"
+            23,
+            46,
+            47
         ]
     }
 },
@@ -213,12 +213,12 @@
     "fields": {
         "country": "Belgium",
         "languages": [
-            "Arabic",
-            "Dutch",
-            "French",
-            "German",
-            "Italian",
-            "Turkish"
+            1,
+            23,
+            25,
+            28,
+            35,
+            43
         ]
     }
 },
@@ -228,13 +228,13 @@
     "fields": {
         "country": "Benin",
         "languages": [
-            "Adja",
-            "Aizo",
-            "Bariba",
-            "Fon",
-            "Ful",
-            "Joruba",
-            "Somba"
+            48,
+            49,
+            50,
+            51,
+            52,
+            53,
+            54
         ]
     }
 },
@@ -244,12 +244,12 @@
     "fields": {
         "country": "Burkina Faso",
         "languages": [
-            "Busansi",
-            "Dagara",
-            "Dyula",
-            "Ful",
-            "Gurma",
-            "Mossi"
+            52,
+            55,
+            56,
+            57,
+            58,
+            59
         ]
     }
 },
@@ -259,13 +259,13 @@
     "fields": {
         "country": "Bangladesh",
         "languages": [
-            "Bengali",
-            "Chakma",
-            "Garo",
-            "Khasi",
-            "Marma",
-            "Santhali",
-            "Tripuri"
+            60,
+            61,
+            62,
+            63,
+            64,
+            65,
+            66
         ]
     }
 },
@@ -275,10 +275,10 @@
     "fields": {
         "country": "Bulgaria",
         "languages": [
-            "Bulgariana",
-            "Macedonian",
-            "Romani",
-            "Turkish"
+            21,
+            43,
+            67,
+            68
         ]
     }
 },
@@ -288,8 +288,8 @@
     "fields": {
         "country": "Bahrain",
         "languages": [
-            "Arabic",
-            "English"
+            2,
+            25
         ]
     }
 },
@@ -299,8 +299,8 @@
     "fields": {
         "country": "Bahamas",
         "languages": [
-            "Creole English",
-            "Creole French"
+            33,
+            69
         ]
     }
 },
@@ -310,7 +310,7 @@
     "fields": {
         "country": "Bosnia and Herzegovina",
         "languages": [
-            "Bosnian"
+            70
         ]
     }
 },
@@ -320,10 +320,10 @@
     "fields": {
         "country": "Belarus",
         "languages": [
-            "Belorussian",
-            "Polish",
-            "Russian",
-            "Ukrainian"
+            40,
+            45,
+            71,
+            72
         ]
     }
 },
@@ -333,10 +333,10 @@
     "fields": {
         "country": "Belize",
         "languages": [
-            "English",
-            "Garifuna",
-            "Maya Languages",
-            "Spanish"
+            2,
+            4,
+            73,
+            74
         ]
     }
 },
@@ -346,7 +346,7 @@
     "fields": {
         "country": "Bermuda",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -356,10 +356,10 @@
     "fields": {
         "country": "Bolivia",
         "languages": [
-            "Aimar√°",
-            "Guaran√≠",
-            "Ket¬öua",
-            "Spanish"
+            4,
+            75,
+            76,
+            77
         ]
     }
 },
@@ -369,11 +369,11 @@
     "fields": {
         "country": "Brazil",
         "languages": [
-            "German",
-            "Indian Languages",
-            "Italian",
-            "Japanese",
-            "Portuguese"
+            24,
+            27,
+            28,
+            35,
+            78
         ]
     }
 },
@@ -383,8 +383,8 @@
     "fields": {
         "country": "Barbados",
         "languages": [
-            "Bajan",
-            "English"
+            2,
+            79
         ]
     }
 },
@@ -394,10 +394,10 @@
     "fields": {
         "country": "Brunei",
         "languages": [
-            "Chinese",
-            "English",
-            "Malay",
-            "Malay-English"
+            2,
+            80,
+            81,
+            82
         ]
     }
 },
@@ -407,9 +407,9 @@
     "fields": {
         "country": "Bhutan",
         "languages": [
-            "Asami",
-            "Dzongkha",
-            "Nepali"
+            83,
+            84,
+            85
         ]
     }
 },
@@ -419,11 +419,11 @@
     "fields": {
         "country": "Botswana",
         "languages": [
-            "Khoekhoe",
-            "Ndebele",
-            "San",
-            "Shona",
-            "Tswana"
+            86,
+            87,
+            88,
+            89,
+            90
         ]
     }
 },
@@ -433,12 +433,12 @@
     "fields": {
         "country": "Central African Republic",
         "languages": [
-            "Banda",
-            "Gbaya",
-            "Mandjia",
-            "Mbum",
-            "Ngbaka",
-            "Sara"
+            91,
+            92,
+            93,
+            94,
+            95,
+            96
         ]
     }
 },
@@ -448,18 +448,18 @@
     "fields": {
         "country": "Canada",
         "languages": [
-            "Chinese",
-            "Dutch",
-            "English",
-            "Eskimo Languages",
-            "French",
-            "German",
-            "Italian",
-            "Polish",
-            "Portuguese",
-            "Punjabi",
-            "Spanish",
-            "Ukrainian"
+            1,
+            2,
+            4,
+            23,
+            24,
+            28,
+            35,
+            40,
+            72,
+            80,
+            97,
+            98
         ]
     }
 },
@@ -469,8 +469,8 @@
     "fields": {
         "country": "Cocos (Keeling) Islands",
         "languages": [
-            "English",
-            "Malay"
+            2,
+            81
         ]
     }
 },
@@ -480,10 +480,10 @@
     "fields": {
         "country": "Switzerland",
         "languages": [
-            "French",
-            "German",
-            "Italian",
-            "Romansh"
+            23,
+            28,
+            35,
+            99
         ]
     }
 },
@@ -493,10 +493,10 @@
     "fields": {
         "country": "Chile",
         "languages": [
-            "Aimar√°",
-            "Araucan",
-            "Rapa nui",
-            "Spanish"
+            4,
+            75,
+            100,
+            101
         ]
     }
 },
@@ -506,18 +506,18 @@
     "fields": {
         "country": "China",
         "languages": [
-            "Chinese",
-            "Dong",
-            "Hui",
-            "Mant¬öu",
-            "Miao",
-            "Mongolian",
-            "Puyi",
-            "Tibetan",
-            "Tujia",
-            "Uighur",
-            "Yi",
-            "Zhuang"
+            80,
+            102,
+            103,
+            104,
+            105,
+            106,
+            107,
+            108,
+            109,
+            110,
+            111,
+            112
         ]
     }
 },
@@ -527,11 +527,11 @@
     "fields": {
         "country": "Ivory Coast",
         "languages": [
-            "Akan",
-            "Gur",
-            "Kru",
-            "Malinke",
-            "[South]Mande"
+            113,
+            114,
+            115,
+            116,
+            117
         ]
     }
 },
@@ -541,14 +541,14 @@
     "fields": {
         "country": "Cameroon",
         "languages": [
-            "Bamileke-bamum",
-            "Duala",
-            "Fang",
-            "Ful",
-            "Maka",
-            "Mandara",
-            "Masana",
-            "Tikar"
+            52,
+            118,
+            119,
+            120,
+            121,
+            122,
+            123,
+            124
         ]
     }
 },
@@ -558,10 +558,10 @@
     "fields": {
         "country": "Congo, The Democratic Republic of the",
         "languages": [
-            "Lingala",
-            "Kikongo",
-            "Swahili",
-            "Tshiluba"
+            47,
+            125,
+            126,
+            127
         ]
     }
 },
@@ -571,12 +571,12 @@
     "fields": {
         "country": "Congo",
         "languages": [
-            "Kongo",
-            "Mbete",
-            "Mboshi",
-            "Punu",
-            "Sango",
-            "Teke"
+            12,
+            128,
+            129,
+            130,
+            131,
+            132
         ]
     }
 },
@@ -586,8 +586,8 @@
     "fields": {
         "country": "Cook Islands",
         "languages": [
-            "English",
-            "Maori"
+            2,
+            133
         ]
     }
 },
@@ -597,11 +597,11 @@
     "fields": {
         "country": "Colombia",
         "languages": [
-            "Arawakan",
-            "Caribbean",
-            "Chibcha",
-            "Creole English",
-            "Spanish"
+            4,
+            33,
+            134,
+            135,
+            136
         ]
     }
 },
@@ -611,11 +611,11 @@
     "fields": {
         "country": "Comoros",
         "languages": [
-            "Comorian",
-            "Comorian-Arabic",
-            "Comorian-French",
-            "Comorian-madagassi",
-            "Comorian-Swahili"
+            137,
+            138,
+            139,
+            140,
+            141
         ]
     }
 },
@@ -625,8 +625,8 @@
     "fields": {
         "country": "Cape Verde",
         "languages": [
-            "Crioulo",
-            "Portuguese"
+            24,
+            142
         ]
     }
 },
@@ -636,10 +636,10 @@
     "fields": {
         "country": "Costa Rica",
         "languages": [
-            "Chibcha",
-            "Chinese",
-            "Creole English",
-            "Spanish"
+            4,
+            33,
+            80,
+            136
         ]
     }
 },
@@ -649,7 +649,7 @@
     "fields": {
         "country": "Cuba",
         "languages": [
-            "Spanish"
+            4
         ]
     }
 },
@@ -659,8 +659,8 @@
     "fields": {
         "country": "Christmas Island",
         "languages": [
-            "Chinese",
-            "English"
+            2,
+            80
         ]
     }
 },
@@ -670,7 +670,7 @@
     "fields": {
         "country": "Cayman Islands",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -680,8 +680,8 @@
     "fields": {
         "country": "Cyprus",
         "languages": [
-            "Greek",
-            "Turkish"
+            20,
+            43
         ]
     }
 },
@@ -691,14 +691,14 @@
     "fields": {
         "country": "Czech Republic",
         "languages": [
-            "Czech",
-            "German",
-            "Hungarian",
-            "Moravian",
-            "Polish",
-            "Romani",
-            "Silesiana",
-            "Slovak"
+            35,
+            38,
+            39,
+            40,
+            68,
+            143,
+            144,
+            145
         ]
     }
 },
@@ -708,12 +708,12 @@
     "fields": {
         "country": "Germany",
         "languages": [
-            "German",
-            "Greek",
-            "Italian",
-            "Polish",
-            "Southern Slavic Languages",
-            "Turkish"
+            20,
+            28,
+            35,
+            40,
+            43,
+            146
         ]
     }
 },
@@ -723,9 +723,9 @@
     "fields": {
         "country": "Djibouti",
         "languages": [
-            "Afar",
-            "Arabic",
-            "Somali"
+            25,
+            147,
+            148
         ]
     }
 },
@@ -735,8 +735,8 @@
     "fields": {
         "country": "Dominica",
         "languages": [
-            "Creole English",
-            "Creole French"
+            33,
+            69
         ]
     }
 },
@@ -746,13 +746,13 @@
     "fields": {
         "country": "Denmark",
         "languages": [
-            "Arabic",
-            "Danish",
-            "English",
-            "German",
-            "Norwegian",
-            "Swedish",
-            "Turkish"
+            2,
+            25,
+            35,
+            43,
+            149,
+            150,
+            151
         ]
     }
 },
@@ -762,8 +762,8 @@
     "fields": {
         "country": "Dominican Republic",
         "languages": [
-            "Creole French",
-            "Spanish"
+            4,
+            69
         ]
     }
 },
@@ -773,8 +773,8 @@
     "fields": {
         "country": "Algeria",
         "languages": [
-            "Arabic",
-            "Berberi"
+            25,
+            152
         ]
     }
 },
@@ -784,8 +784,8 @@
     "fields": {
         "country": "Ecuador",
         "languages": [
-            "Ket¬öua",
-            "Spanish"
+            4,
+            77
         ]
     }
 },
@@ -795,8 +795,8 @@
     "fields": {
         "country": "Egypt",
         "languages": [
-            "Arabic",
-            "Sinaberberi"
+            25,
+            153
         ]
     }
 },
@@ -806,12 +806,12 @@
     "fields": {
         "country": "Eritrea",
         "languages": [
-            "Afar",
-            "Bilin",
-            "Hadareb",
-            "Saho",
-            "Tigre",
-            "Tigrigna"
+            147,
+            154,
+            155,
+            156,
+            157,
+            158
         ]
     }
 },
@@ -821,7 +821,7 @@
     "fields": {
         "country": "Western Sahara",
         "languages": [
-            "Arabic"
+            25
         ]
     }
 },
@@ -831,10 +831,10 @@
     "fields": {
         "country": "Spain",
         "languages": [
-            "Basque",
-            "Catalan",
-            "Galecian",
-            "Spanish"
+            4,
+            22,
+            159,
+            160
         ]
     }
 },
@@ -844,11 +844,11 @@
     "fields": {
         "country": "Estonia",
         "languages": [
-            "Belorussian",
-            "Estonian",
-            "Finnish",
-            "Russian",
-            "Ukrainian"
+            45,
+            71,
+            72,
+            161,
+            162
         ]
     }
 },
@@ -858,8 +858,8 @@
     "fields": {
         "country": "Eswatini",
         "languages": [
-            "Swazi",
-            "Zulu"
+            163,
+            164
         ]
     }
 },
@@ -869,13 +869,13 @@
     "fields": {
         "country": "Ethiopia",
         "languages": [
-            "Amharic",
-            "Gurage",
-            "Oromo",
-            "Sidamo",
-            "Somali",
-            "Tigrigna",
-            "Walaita"
+            148,
+            158,
+            165,
+            166,
+            167,
+            168,
+            169
         ]
     }
 },
@@ -885,11 +885,11 @@
     "fields": {
         "country": "Finland",
         "languages": [
-            "Estonian",
-            "Finnish",
-            "Russian",
-            "Saame",
-            "Swedish"
+            45,
+            151,
+            161,
+            162,
+            170
         ]
     }
 },
@@ -899,8 +899,8 @@
     "fields": {
         "country": "Fiji Islands",
         "languages": [
-            "Fijian",
-            "Hindi"
+            26,
+            171
         ]
     }
 },
@@ -910,7 +910,7 @@
     "fields": {
         "country": "Falkland Islands",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -920,12 +920,12 @@
     "fields": {
         "country": "France",
         "languages": [
-            "Arabic",
-            "French",
-            "Italian",
-            "Portuguese",
-            "Spanish",
-            "Turkish"
+            4,
+            23,
+            24,
+            25,
+            28,
+            43
         ]
     }
 },
@@ -935,8 +935,8 @@
     "fields": {
         "country": "Faroe Islands",
         "languages": [
-            "Danish",
-            "Faroese"
+            149,
+            172
         ]
     }
 },
@@ -946,12 +946,12 @@
     "fields": {
         "country": "Micronesia, Federated States of",
         "languages": [
-            "Kosrean",
-            "Mortlock",
-            "Pohnpei",
-            "Trukese",
-            "Wolea",
-            "Yap"
+            173,
+            174,
+            175,
+            176,
+            177,
+            178
         ]
     }
 },
@@ -961,10 +961,10 @@
     "fields": {
         "country": "Gabon",
         "languages": [
-            "Fang",
-            "Mbete",
-            "Mpongwe",
-            "Punu-sira-nzebi"
+            120,
+            128,
+            179,
+            180
         ]
     }
 },
@@ -974,9 +974,9 @@
     "fields": {
         "country": "United Kingdom",
         "languages": [
-            "English",
-            "Gaeli",
-            "Kymri"
+            2,
+            181,
+            182
         ]
     }
 },
@@ -986,12 +986,12 @@
     "fields": {
         "country": "Georgia",
         "languages": [
-            "Abhyasi",
-            "Armenian",
-            "Azerbaijani",
-            "Georgiana",
-            "Osseetti",
-            "Russian"
+            29,
+            30,
+            45,
+            183,
+            184,
+            185
         ]
     }
 },
@@ -1001,12 +1001,12 @@
     "fields": {
         "country": "Ghana",
         "languages": [
-            "Akan",
-            "Ewe",
-            "Ga-adangme",
-            "Gurma",
-            "Joruba",
-            "Mossi"
+            53,
+            58,
+            59,
+            113,
+            186,
+            187
         ]
     }
 },
@@ -1016,8 +1016,8 @@
     "fields": {
         "country": "Gibraltar",
         "languages": [
-            "Arabic",
-            "English"
+            2,
+            25
         ]
     }
 },
@@ -1027,13 +1027,13 @@
     "fields": {
         "country": "Guinea",
         "languages": [
-            "Ful",
-            "Kissi",
-            "Kpelle",
-            "Loma",
-            "Malinke",
-            "Susu",
-            "Yalunka"
+            52,
+            116,
+            188,
+            189,
+            190,
+            191,
+            192
         ]
     }
 },
@@ -1043,8 +1043,8 @@
     "fields": {
         "country": "Guadeloupe",
         "languages": [
-            "Creole French",
-            "French"
+            23,
+            69
         ]
     }
 },
@@ -1054,11 +1054,11 @@
     "fields": {
         "country": "Gambia",
         "languages": [
-            "Diola",
-            "Ful",
-            "Malinke",
-            "Soninke",
-            "Wolof"
+            52,
+            116,
+            193,
+            194,
+            195
         ]
     }
 },
@@ -1068,12 +1068,12 @@
     "fields": {
         "country": "Guinea-Bissau",
         "languages": [
-            "Balante",
-            "Crioulo",
-            "Ful",
-            "Malinke",
-            "Mandyako",
-            "Portuguese"
+            24,
+            52,
+            116,
+            142,
+            196,
+            197
         ]
     }
 },
@@ -1083,8 +1083,8 @@
     "fields": {
         "country": "Equatorial Guinea",
         "languages": [
-            "Bubi",
-            "Fang"
+            120,
+            198
         ]
     }
 },
@@ -1094,8 +1094,8 @@
     "fields": {
         "country": "Greece",
         "languages": [
-            "Greek",
-            "Turkish"
+            20,
+            43
         ]
     }
 },
@@ -1105,7 +1105,7 @@
     "fields": {
         "country": "Grenada",
         "languages": [
-            "Creole English"
+            33
         ]
     }
 },
@@ -1115,8 +1115,8 @@
     "fields": {
         "country": "Greenland",
         "languages": [
-            "Danish",
-            "Greenlandic"
+            149,
+            199
         ]
     }
 },
@@ -1126,11 +1126,11 @@
     "fields": {
         "country": "Guatemala",
         "languages": [
-            "Cakchiquel",
-            "Kekch√≠",
-            "Mam",
-            "Quich√©",
-            "Spanish"
+            4,
+            200,
+            201,
+            202,
+            203
         ]
     }
 },
@@ -1140,8 +1140,8 @@
     "fields": {
         "country": "French Guiana",
         "languages": [
-            "Creole French",
-            "Indian Languages"
+            27,
+            69
         ]
     }
 },
@@ -1151,11 +1151,11 @@
     "fields": {
         "country": "Guam",
         "languages": [
-            "Chamorro",
-            "English",
-            "Japanese",
-            "Korean",
-            "Philippene Languages"
+            2,
+            78,
+            204,
+            205,
+            206
         ]
     }
 },
@@ -1165,9 +1165,9 @@
     "fields": {
         "country": "Guyana",
         "languages": [
-            "Arawakan",
-            "Caribbean",
-            "Creole English"
+            33,
+            134,
+            135
         ]
     }
 },
@@ -1177,11 +1177,11 @@
     "fields": {
         "country": "Hong Kong",
         "languages": [
-            "Canton Chinese",
-            "Chiu chau",
-            "English",
-            "Fukien",
-            "Hakka"
+            2,
+            34,
+            207,
+            208,
+            209
         ]
     }
 },
@@ -1191,10 +1191,10 @@
     "fields": {
         "country": "Honduras",
         "languages": [
-            "Creole English",
-            "Garifuna",
-            "Miskito",
-            "Spanish"
+            4,
+            33,
+            73,
+            210
         ]
     }
 },
@@ -1204,8 +1204,8 @@
     "fields": {
         "country": "Croatia",
         "languages": [
-            "Serbo-Croatian",
-            "Slovene"
+            36,
+            42
         ]
     }
 },
@@ -1215,8 +1215,8 @@
     "fields": {
         "country": "Haiti",
         "languages": [
-            "French",
-            "Haiti Creole"
+            23,
+            211
         ]
     }
 },
@@ -1226,12 +1226,12 @@
     "fields": {
         "country": "Hungary",
         "languages": [
-            "German",
-            "Hungarian",
-            "Romani",
-            "Romanian",
-            "Serbo-Croatian",
-            "Slovak"
+            35,
+            36,
+            39,
+            41,
+            68,
+            145
         ]
     }
 },
@@ -1241,16 +1241,16 @@
     "fields": {
         "country": "Indonesia",
         "languages": [
-            "Bahasa",
-            "Bali",
-            "Banja",
-            "Batakki",
-            "Bugi",
-            "Javanese",
-            "Madura",
-            "Malay",
-            "Minangkabau",
-            "Sunda"
+            81,
+            212,
+            213,
+            214,
+            215,
+            216,
+            217,
+            218,
+            219,
+            220
         ]
     }
 },
@@ -1260,27 +1260,27 @@
     "fields": {
         "country": "India",
         "languages": [
-            "Asami",
-            "Bengali",
-            "Gujarati",
-            "Hindi",
-            "Kannada",
-            "Malayalam",
-            "Marathi",
-            "Odia",
-            "Punjabi",
-            "Tamil",
-            "Telugu",
-            "Urdu",
-            "Sanskrit",
-            "English",
-            "Konkani",
-            "Nepali",
-            "Bodo",
-            "Kashmiri",
-            "Maithili",
-            "Santali",
-            "Sindhi"
+            2,
+            26,
+            60,
+            83,
+            85,
+            98,
+            221,
+            222,
+            223,
+            224,
+            225,
+            226,
+            227,
+            228,
+            229,
+            230,
+            231,
+            232,
+            233,
+            234,
+            235
         ]
     }
 },
@@ -1290,8 +1290,8 @@
     "fields": {
         "country": "Ireland",
         "languages": [
-            "English",
-            "Irish"
+            2,
+            236
         ]
     }
 },
@@ -1301,16 +1301,16 @@
     "fields": {
         "country": "Iran",
         "languages": [
-            "Arabic",
-            "Azerbaijani",
-            "Bakhtyari",
-            "Balochi",
-            "Gilaki",
-            "Kurdish",
-            "Luri",
-            "Mazandarani",
-            "Persian",
-            "Turkmenian"
+            5,
+            8,
+            25,
+            30,
+            237,
+            238,
+            239,
+            240,
+            241,
+            242
         ]
     }
 },
@@ -1320,11 +1320,11 @@
     "fields": {
         "country": "Iraq",
         "languages": [
-            "Arabic",
-            "Assyrian",
-            "Azerbaijani",
-            "Kurdish",
-            "Persian"
+            25,
+            30,
+            239,
+            242,
+            243
         ]
     }
 },
@@ -1334,8 +1334,8 @@
     "fields": {
         "country": "Iceland",
         "languages": [
-            "English",
-            "Icelandic"
+            2,
+            244
         ]
     }
 },
@@ -1345,9 +1345,9 @@
     "fields": {
         "country": "Israel",
         "languages": [
-            "Arabic",
-            "Hebrew",
-            "Russian"
+            25,
+            45,
+            245
         ]
     }
 },
@@ -1357,14 +1357,14 @@
     "fields": {
         "country": "Italy",
         "languages": [
-            "Albaniana",
-            "French",
-            "Friuli",
-            "German",
-            "Italian",
-            "Romani",
-            "Sardinian",
-            "Slovene"
+            19,
+            23,
+            28,
+            35,
+            42,
+            68,
+            246,
+            247
         ]
     }
 },
@@ -1374,8 +1374,8 @@
     "fields": {
         "country": "Jamaica",
         "languages": [
-            "Creole English",
-            "Hindi"
+            26,
+            33
         ]
     }
 },
@@ -1385,9 +1385,9 @@
     "fields": {
         "country": "Jordan",
         "languages": [
-            "Arabic",
-            "Armenian",
-            "Circassian"
+            25,
+            29,
+            248
         ]
     }
 },
@@ -1397,12 +1397,12 @@
     "fields": {
         "country": "Japan",
         "languages": [
-            "Ainu",
-            "Chinese",
-            "English",
-            "Japanese",
-            "Korean",
-            "Philippene Languages"
+            2,
+            78,
+            80,
+            205,
+            206,
+            249
         ]
     }
 },
@@ -1412,12 +1412,12 @@
     "fields": {
         "country": "Kazakhstan",
         "languages": [
-            "German",
-            "Kazakh",
-            "Russian",
-            "Tatar",
-            "Ukrainian",
-            "Uzbek"
+            9,
+            35,
+            45,
+            72,
+            250,
+            251
         ]
     }
 },
@@ -1427,16 +1427,16 @@
     "fields": {
         "country": "Kenya",
         "languages": [
-            "Gusii",
-            "Kalenjin",
-            "Kamba",
-            "Kikuyu",
-            "Luhya",
-            "Luo",
-            "Masai",
-            "Meru",
-            "Nyika",
-            "Turkana"
+            252,
+            253,
+            254,
+            255,
+            256,
+            257,
+            258,
+            259,
+            260,
+            261
         ]
     }
 },
@@ -1446,13 +1446,13 @@
     "fields": {
         "country": "Kyrgyzstan",
         "languages": [
-            "Kazakh",
-            "Kirgiz",
-            "Russian",
-            "Tadzhik",
-            "Tatar",
-            "Ukrainian",
-            "Uzbek"
+            9,
+            45,
+            72,
+            250,
+            251,
+            262,
+            263
         ]
     }
 },
@@ -1462,7 +1462,7 @@
     "fields": {
         "country": "Cambodia",
         "languages": [
-            "Khmer"
+            264
         ]
     }
 },
@@ -1472,8 +1472,8 @@
     "fields": {
         "country": "Kiribati",
         "languages": [
-            "Kiribati",
-            "Tuvalu"
+            265,
+            266
         ]
     }
 },
@@ -1483,8 +1483,8 @@
     "fields": {
         "country": "Saint Kitts and Nevis",
         "languages": [
-            "Creole English",
-            "English"
+            2,
+            33
         ]
     }
 },
@@ -1494,8 +1494,8 @@
     "fields": {
         "country": "South Korea",
         "languages": [
-            "Chinese",
-            "Korean"
+            80,
+            205
         ]
     }
 },
@@ -1505,8 +1505,8 @@
     "fields": {
         "country": "Kuwait",
         "languages": [
-            "Arabic",
-            "English"
+            2,
+            25
         ]
     }
 },
@@ -1516,10 +1516,10 @@
     "fields": {
         "country": "Laos",
         "languages": [
-            "Lao",
-            "Lao-Soung",
-            "Mon-khmer",
-            "Thai"
+            267,
+            268,
+            269,
+            270
         ]
     }
 },
@@ -1529,9 +1529,9 @@
     "fields": {
         "country": "Lebanon",
         "languages": [
-            "Arabic",
-            "Armenian",
-            "French"
+            23,
+            25,
+            29
         ]
     }
 },
@@ -1541,14 +1541,14 @@
     "fields": {
         "country": "Liberia",
         "languages": [
-            "Bassa",
-            "Gio",
-            "Grebo",
-            "Kpelle",
-            "Kru",
-            "Loma",
-            "Malinke",
-            "Mano"
+            115,
+            116,
+            189,
+            190,
+            271,
+            272,
+            273,
+            274
         ]
     }
 },
@@ -1558,8 +1558,8 @@
     "fields": {
         "country": "Libya",
         "languages": [
-            "Arabic",
-            "Berberi"
+            25,
+            152
         ]
     }
 },
@@ -1569,8 +1569,8 @@
     "fields": {
         "country": "Saint Lucia",
         "languages": [
-            "Creole French",
-            "English"
+            2,
+            69
         ]
     }
 },
@@ -1580,9 +1580,9 @@
     "fields": {
         "country": "Liechtenstein",
         "languages": [
-            "German",
-            "Italian",
-            "Turkish"
+            28,
+            35,
+            43
         ]
     }
 },
@@ -1592,9 +1592,9 @@
     "fields": {
         "country": "Sri Lanka",
         "languages": [
-            "Mixed Languages",
-            "Singali",
-            "Tamil"
+            226,
+            275,
+            276
         ]
     }
 },
@@ -1604,9 +1604,9 @@
     "fields": {
         "country": "Lesotho",
         "languages": [
-            "English",
-            "Sotho",
-            "Zulu"
+            2,
+            164,
+            277
         ]
     }
 },
@@ -1616,11 +1616,11 @@
     "fields": {
         "country": "Lithuania",
         "languages": [
-            "Belorussian",
-            "Lithuanian",
-            "Polish",
-            "Russian",
-            "Ukrainian"
+            40,
+            45,
+            71,
+            72,
+            278
         ]
     }
 },
@@ -1630,11 +1630,11 @@
     "fields": {
         "country": "Luxembourg",
         "languages": [
-            "French",
-            "German",
-            "Italian",
-            "Luxembourgish",
-            "Portuguese"
+            23,
+            24,
+            28,
+            35,
+            279
         ]
     }
 },
@@ -1644,12 +1644,12 @@
     "fields": {
         "country": "Latvia",
         "languages": [
-            "Belorussian",
-            "Latvian",
-            "Lithuanian",
-            "Polish",
-            "Russian",
-            "Ukrainian"
+            40,
+            45,
+            71,
+            72,
+            278,
+            280
         ]
     }
 },
@@ -1659,10 +1659,10 @@
     "fields": {
         "country": "Macao",
         "languages": [
-            "Canton Chinese",
-            "English",
-            "Mandarin Chinese",
-            "Portuguese"
+            2,
+            24,
+            34,
+            281
         ]
     }
 },
@@ -1672,8 +1672,8 @@
     "fields": {
         "country": "Morocco",
         "languages": [
-            "Arabic",
-            "Berberi"
+            25,
+            152
         ]
     }
 },
@@ -1683,10 +1683,10 @@
     "fields": {
         "country": "Monaco",
         "languages": [
-            "English",
-            "French",
-            "Italian",
-            "Monegasque"
+            2,
+            23,
+            28,
+            282
         ]
     }
 },
@@ -1696,11 +1696,11 @@
     "fields": {
         "country": "Moldova",
         "languages": [
-            "Bulgariana",
-            "Gagauzi",
-            "Romanian",
-            "Russian",
-            "Ukrainian"
+            41,
+            45,
+            67,
+            72,
+            283
         ]
     }
 },
@@ -1710,8 +1710,8 @@
     "fields": {
         "country": "Madagascar",
         "languages": [
-            "French",
-            "Malagasy"
+            23,
+            284
         ]
     }
 },
@@ -1721,8 +1721,8 @@
     "fields": {
         "country": "Maldives",
         "languages": [
-            "Dhivehi",
-            "English"
+            2,
+            285
         ]
     }
 },
@@ -1732,12 +1732,12 @@
     "fields": {
         "country": "Mexico",
         "languages": [
-            "Mixtec",
-            "N√°huatl",
-            "Otom√≠",
-            "Spanish",
-            "Yucatec",
-            "Zapotec"
+            4,
+            286,
+            287,
+            288,
+            289,
+            290
         ]
     }
 },
@@ -1747,8 +1747,8 @@
     "fields": {
         "country": "Marshall Islands",
         "languages": [
-            "English",
-            "Marshallese"
+            2,
+            291
         ]
     }
 },
@@ -1758,11 +1758,11 @@
     "fields": {
         "country": "Macedonia",
         "languages": [
-            "Albaniana",
-            "Macedonian",
-            "Romani",
-            "Serbo-Croatian",
-            "Turkish"
+            19,
+            21,
+            36,
+            43,
+            68
         ]
     }
 },
@@ -1772,12 +1772,12 @@
     "fields": {
         "country": "Mali",
         "languages": [
-            "Bambara",
-            "Ful",
-            "Senufo and Minianka",
-            "Songhai",
-            "Soninke",
-            "Tamashek"
+            52,
+            194,
+            292,
+            293,
+            294,
+            295
         ]
     }
 },
@@ -1787,8 +1787,8 @@
     "fields": {
         "country": "Malta",
         "languages": [
-            "English",
-            "Maltese"
+            2,
+            296
         ]
     }
 },
@@ -1798,14 +1798,14 @@
     "fields": {
         "country": "Myanmar",
         "languages": [
-            "Burmese",
-            "Chin",
-            "Kachin",
-            "Karen",
-            "Kayah",
-            "Mon",
-            "Rakhine",
-            "Shan"
+            297,
+            298,
+            299,
+            300,
+            301,
+            302,
+            303,
+            304
         ]
     }
 },
@@ -1815,12 +1815,12 @@
     "fields": {
         "country": "Mongolia",
         "languages": [
-            "Bajad",
-            "Buryat",
-            "Dariganga",
-            "Dorbet",
-            "Kazakh",
-            "Mongolian"
+            106,
+            250,
+            305,
+            306,
+            307,
+            308
         ]
     }
 },
@@ -1830,12 +1830,12 @@
     "fields": {
         "country": "Northern Mariana Islands",
         "languages": [
-            "Carolinian",
-            "Chamorro",
-            "Chinese",
-            "English",
-            "Korean",
-            "Philippene Languages"
+            2,
+            80,
+            204,
+            205,
+            206,
+            309
         ]
     }
 },
@@ -1845,16 +1845,16 @@
     "fields": {
         "country": "Mozambique",
         "languages": [
-            "Chuabo",
-            "Lomwe",
-            "Makua",
-            "Marendje",
-            "Nyanja",
-            "Ronga",
-            "Sena",
-            "Shona",
-            "Tsonga",
-            "Tswa"
+            89,
+            310,
+            311,
+            312,
+            313,
+            314,
+            315,
+            316,
+            317,
+            318
         ]
     }
 },
@@ -1864,12 +1864,12 @@
     "fields": {
         "country": "Mauritania",
         "languages": [
-            "Ful",
-            "Hassaniya",
-            "Soninke",
-            "Tukulor",
-            "Wolof",
-            "Zenaga"
+            52,
+            194,
+            195,
+            319,
+            320,
+            321
         ]
     }
 },
@@ -1879,7 +1879,7 @@
     "fields": {
         "country": "Montserrat",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -1889,8 +1889,8 @@
     "fields": {
         "country": "Martinique",
         "languages": [
-            "Creole French",
-            "French"
+            23,
+            69
         ]
     }
 },
@@ -1900,12 +1900,12 @@
     "fields": {
         "country": "Mauritius",
         "languages": [
-            "Bhojpuri",
-            "Creole French",
-            "French",
-            "Hindi",
-            "Marathi",
-            "Tamil"
+            23,
+            26,
+            69,
+            224,
+            226,
+            322
         ]
     }
 },
@@ -1915,10 +1915,10 @@
     "fields": {
         "country": "Malawi",
         "languages": [
-            "Chichewa",
-            "Lomwe",
-            "Ngoni",
-            "Yao"
+            311,
+            323,
+            324,
+            325
         ]
     }
 },
@@ -1928,12 +1928,12 @@
     "fields": {
         "country": "Malaysia",
         "languages": [
-            "Chinese",
-            "Dusun",
-            "English",
-            "Iban",
-            "Malay",
-            "Tamil"
+            2,
+            80,
+            81,
+            226,
+            326,
+            327
         ]
     }
 },
@@ -1943,9 +1943,9 @@
     "fields": {
         "country": "Mayotte",
         "languages": [
-            "French",
-            "Mahor√©",
-            "Malagasy"
+            23,
+            284,
+            328
         ]
     }
 },
@@ -1955,14 +1955,14 @@
     "fields": {
         "country": "Namibia",
         "languages": [
-            "Afrikaans",
-            "Caprivi",
-            "German",
-            "Herero",
-            "Kavango",
-            "Nama",
-            "Ovambo",
-            "San"
+            35,
+            88,
+            329,
+            330,
+            331,
+            332,
+            333,
+            334
         ]
     }
 },
@@ -1972,9 +1972,9 @@
     "fields": {
         "country": "New Caledonia",
         "languages": [
-            "French",
-            "Malenasian Languages",
-            "Polynesian Languages"
+            23,
+            335,
+            336
         ]
     }
 },
@@ -1984,11 +1984,11 @@
     "fields": {
         "country": "Niger",
         "languages": [
-            "Ful",
-            "Hausa",
-            "Kanuri",
-            "Songhai-zerma",
-            "Tamashek"
+            52,
+            295,
+            337,
+            338,
+            339
         ]
     }
 },
@@ -1998,7 +1998,7 @@
     "fields": {
         "country": "Norfolk Island",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -2008,16 +2008,16 @@
     "fields": {
         "country": "Nigeria",
         "languages": [
-            "Bura",
-            "Edo",
-            "Ful",
-            "Hausa",
-            "Ibibio",
-            "Ibo",
-            "Ijo",
-            "Yoruba",
-            "Kanuri",
-            "Tiv"
+            52,
+            337,
+            338,
+            340,
+            341,
+            342,
+            343,
+            344,
+            345,
+            346
         ]
     }
 },
@@ -2027,10 +2027,10 @@
     "fields": {
         "country": "Nicaragua",
         "languages": [
-            "Creole English",
-            "Miskito",
-            "Spanish",
-            "Sumo"
+            4,
+            33,
+            210,
+            347
         ]
     }
 },
@@ -2040,8 +2040,8 @@
     "fields": {
         "country": "Niue",
         "languages": [
-            "English",
-            "Niue"
+            2,
+            348
         ]
     }
 },
@@ -2051,10 +2051,10 @@
     "fields": {
         "country": "Netherlands",
         "languages": [
-            "Arabic",
-            "Dutch",
-            "Fries",
-            "Turkish"
+            1,
+            25,
+            43,
+            349
         ]
     }
 },
@@ -2064,11 +2064,11 @@
     "fields": {
         "country": "Norway",
         "languages": [
-            "Danish",
-            "English",
-            "Norwegian",
-            "Saame",
-            "Swedish"
+            2,
+            149,
+            150,
+            151,
+            170
         ]
     }
 },
@@ -2078,13 +2078,13 @@
     "fields": {
         "country": "Nepal",
         "languages": [
-            "Bhojpuri",
-            "Hindi",
-            "Maithili",
-            "Nepali",
-            "Newari",
-            "Tamang",
-            "Tharu"
+            26,
+            85,
+            233,
+            322,
+            350,
+            351,
+            352
         ]
     }
 },
@@ -2094,11 +2094,11 @@
     "fields": {
         "country": "Nauru",
         "languages": [
-            "Chinese",
-            "English",
-            "Kiribati",
-            "Nauru",
-            "Tuvalu"
+            2,
+            80,
+            265,
+            266,
+            353
         ]
     }
 },
@@ -2108,8 +2108,8 @@
     "fields": {
         "country": "New Zealand",
         "languages": [
-            "English",
-            "Maori"
+            2,
+            133
         ]
     }
 },
@@ -2119,8 +2119,8 @@
     "fields": {
         "country": "Oman",
         "languages": [
-            "Arabic",
-            "Balochi"
+            5,
+            25
         ]
     }
 },
@@ -2130,14 +2130,14 @@
     "fields": {
         "country": "Pakistan",
         "languages": [
-            "Balochi",
-            "Brahui",
-            "Hindko",
-            "Pashto",
-            "Punjabi",
-            "Saraiki",
-            "Sindhi",
-            "Urdu"
+            5,
+            7,
+            98,
+            228,
+            235,
+            354,
+            355,
+            356
         ]
     }
 },
@@ -2147,12 +2147,12 @@
     "fields": {
         "country": "Panama",
         "languages": [
-            "Arabic",
-            "Creole English",
-            "Cuna",
-            "Embera",
-            "Guaym√≠",
-            "Spanish"
+            4,
+            25,
+            33,
+            357,
+            358,
+            359
         ]
     }
 },
@@ -2162,7 +2162,7 @@
     "fields": {
         "country": "Pitcairn",
         "languages": [
-            "Pitcairnese"
+            360
         ]
     }
 },
@@ -2172,9 +2172,9 @@
     "fields": {
         "country": "Peru",
         "languages": [
-            "Aimar√°",
-            "Ket¬öua",
-            "Spanish"
+            4,
+            75,
+            77
         ]
     }
 },
@@ -2184,16 +2184,16 @@
     "fields": {
         "country": "Philippines",
         "languages": [
-            "Bicol",
-            "Cebuano",
-            "Hiligaynon",
-            "Ilocano",
-            "Maguindanao",
-            "Maranao",
-            "Pampango",
-            "Pangasinan",
-            "Pilipino",
-            "Waray-waray"
+            361,
+            362,
+            363,
+            364,
+            365,
+            366,
+            367,
+            368,
+            369,
+            370
         ]
     }
 },
@@ -2203,10 +2203,10 @@
     "fields": {
         "country": "Palau",
         "languages": [
-            "Chinese",
-            "English",
-            "Palau",
-            "Philippene Languages"
+            2,
+            80,
+            206,
+            371
         ]
     }
 },
@@ -2216,8 +2216,8 @@
     "fields": {
         "country": "Papua New Guinea",
         "languages": [
-            "Malenasian Languages",
-            "Papuan Languages"
+            335,
+            372
         ]
     }
 },
@@ -2227,10 +2227,10 @@
     "fields": {
         "country": "Poland",
         "languages": [
-            "Belorussian",
-            "German",
-            "Polish",
-            "Ukrainian"
+            35,
+            40,
+            71,
+            72
         ]
     }
 },
@@ -2240,8 +2240,8 @@
     "fields": {
         "country": "Puerto Rico",
         "languages": [
-            "English",
-            "Spanish"
+            2,
+            4
         ]
     }
 },
@@ -2251,8 +2251,8 @@
     "fields": {
         "country": "North Korea",
         "languages": [
-            "Chinese",
-            "Korean"
+            80,
+            205
         ]
     }
 },
@@ -2262,7 +2262,7 @@
     "fields": {
         "country": "Portugal",
         "languages": [
-            "Portuguese"
+            24
         ]
     }
 },
@@ -2272,10 +2272,10 @@
     "fields": {
         "country": "Paraguay",
         "languages": [
-            "German",
-            "Guaran√≠",
-            "Portuguese",
-            "Spanish"
+            4,
+            24,
+            35,
+            76
         ]
     }
 },
@@ -2285,8 +2285,8 @@
     "fields": {
         "country": "Palestine",
         "languages": [
-            "Arabic",
-            "Hebrew"
+            25,
+            245
         ]
     }
 },
@@ -2296,9 +2296,9 @@
     "fields": {
         "country": "French Polynesia",
         "languages": [
-            "Chinese",
-            "French",
-            "Tahitian"
+            23,
+            80,
+            373
         ]
     }
 },
@@ -2308,8 +2308,8 @@
     "fields": {
         "country": "Qatar",
         "languages": [
-            "Arabic",
-            "Urdu"
+            25,
+            228
         ]
     }
 },
@@ -2319,11 +2319,11 @@
     "fields": {
         "country": "Reunion",
         "languages": [
-            "Chinese",
-            "Comorian",
-            "Creole French",
-            "Malagasy",
-            "Tamil"
+            69,
+            80,
+            137,
+            226,
+            284
         ]
     }
 },
@@ -2333,12 +2333,12 @@
     "fields": {
         "country": "Romania",
         "languages": [
-            "German",
-            "Hungarian",
-            "Romani",
-            "Romanian",
-            "Serbo-Croatian",
-            "Ukrainian"
+            35,
+            36,
+            39,
+            41,
+            68,
+            72
         ]
     }
 },
@@ -2348,18 +2348,18 @@
     "fields": {
         "country": "Russia",
         "languages": [
-            "Avarian",
-            "Bashkir",
-            "Belorussian",
-            "Chechen",
-            "Chuvash",
-            "Kazakh",
-            "Mari",
-            "Mordva",
-            "Russian",
-            "Tatar",
-            "Udmur",
-            "Ukrainian"
+            45,
+            71,
+            72,
+            250,
+            251,
+            374,
+            375,
+            376,
+            377,
+            378,
+            379,
+            380
         ]
     }
 },
@@ -2369,8 +2369,8 @@
     "fields": {
         "country": "Rwanda",
         "languages": [
-            "French",
-            "Rwanda"
+            23,
+            381
         ]
     }
 },
@@ -2380,7 +2380,7 @@
     "fields": {
         "country": "Saudi Arabia",
         "languages": [
-            "Arabic"
+            25
         ]
     }
 },
@@ -2390,16 +2390,16 @@
     "fields": {
         "country": "Sudan",
         "languages": [
-            "Arabic",
-            "Bari",
-            "Beja",
-            "Chilluk",
-            "Dinka",
-            "Fur",
-            "Lotuko",
-            "Nubian Languages",
-            "Nuer",
-            "Zande"
+            25,
+            382,
+            383,
+            384,
+            385,
+            386,
+            387,
+            388,
+            389,
+            390
         ]
     }
 },
@@ -2409,12 +2409,12 @@
     "fields": {
         "country": "Senegal",
         "languages": [
-            "Diola",
-            "Ful",
-            "Malinke",
-            "Serer",
-            "Soninke",
-            "Wolof"
+            52,
+            116,
+            193,
+            194,
+            195,
+            391
         ]
     }
 },
@@ -2424,15 +2424,15 @@
     "fields": {
         "country": "Serbia",
         "languages": [
-            "Serbian",
-            "Hungarian",
-            "Slovak",
-            "Romanian",
-            "Croatian",
-            "Rusyn",
-            "Albanian",
-            "Bulgarian",
-            "English"
+            2,
+            39,
+            41,
+            145,
+            392,
+            393,
+            394,
+            395,
+            396
         ]
     }
 },
@@ -2442,9 +2442,9 @@
     "fields": {
         "country": "Singapore",
         "languages": [
-            "Chinese",
-            "Malay",
-            "Tamil"
+            80,
+            81,
+            226
         ]
     }
 },
@@ -2454,7 +2454,7 @@
     "fields": {
         "country": "Saint Helena",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -2464,8 +2464,8 @@
     "fields": {
         "country": "Svalbard and Jan Mayen",
         "languages": [
-            "Norwegian",
-            "Russian"
+            45,
+            150
         ]
     }
 },
@@ -2475,9 +2475,9 @@
     "fields": {
         "country": "Solomon Islands",
         "languages": [
-            "Malenasian Languages",
-            "Papuan Languages",
-            "Polynesian Languages"
+            335,
+            336,
+            372
         ]
     }
 },
@@ -2487,14 +2487,14 @@
     "fields": {
         "country": "Sierra Leone",
         "languages": [
-            "Bullom-sherbro",
-            "Ful",
-            "Kono-vai",
-            "Kuranko",
-            "Limba",
-            "Mende",
-            "Temne",
-            "Yalunka"
+            52,
+            192,
+            397,
+            398,
+            399,
+            400,
+            401,
+            402
         ]
     }
 },
@@ -2504,8 +2504,8 @@
     "fields": {
         "country": "El Salvador",
         "languages": [
-            "Nahua",
-            "Spanish"
+            4,
+            403
         ]
     }
 },
@@ -2515,7 +2515,7 @@
     "fields": {
         "country": "San Marino",
         "languages": [
-            "Italian"
+            28
         ]
     }
 },
@@ -2525,8 +2525,8 @@
     "fields": {
         "country": "Somalia",
         "languages": [
-            "Arabic",
-            "Somali"
+            25,
+            148
         ]
     }
 },
@@ -2536,7 +2536,7 @@
     "fields": {
         "country": "Saint Pierre and Miquelon",
         "languages": [
-            "French"
+            23
         ]
     }
 },
@@ -2546,8 +2546,8 @@
     "fields": {
         "country": "Sao Tome and Principe",
         "languages": [
-            "Crioulo",
-            "French"
+            23,
+            142
         ]
     }
 },
@@ -2557,8 +2557,8 @@
     "fields": {
         "country": "Suriname",
         "languages": [
-            "Hindi",
-            "Sranantonga"
+            26,
+            404
         ]
     }
 },
@@ -2568,11 +2568,11 @@
     "fields": {
         "country": "Slovakia",
         "languages": [
-            "Czech and Moravian",
-            "Hungarian",
-            "Romani",
-            "Slovak",
-            "Ukrainian and Russian"
+            39,
+            68,
+            145,
+            405,
+            406
         ]
     }
 },
@@ -2582,9 +2582,9 @@
     "fields": {
         "country": "Slovenia",
         "languages": [
-            "Hungarian",
-            "Serbo-Croatian",
-            "Slovene"
+            36,
+            39,
+            42
         ]
     }
 },
@@ -2594,12 +2594,12 @@
     "fields": {
         "country": "Sweden",
         "languages": [
-            "Arabic",
-            "Finnish",
-            "Norwegian",
-            "Southern Slavic Languages",
-            "Spanish",
-            "Swedish"
+            4,
+            25,
+            146,
+            150,
+            151,
+            162
         ]
     }
 },
@@ -2609,9 +2609,9 @@
     "fields": {
         "country": "Seychelles",
         "languages": [
-            "English",
-            "French",
-            "Seselwa"
+            2,
+            23,
+            407
         ]
     }
 },
@@ -2621,8 +2621,8 @@
     "fields": {
         "country": "Syria",
         "languages": [
-            "Arabic",
-            "Kurdish"
+            25,
+            239
         ]
     }
 },
@@ -2632,7 +2632,7 @@
     "fields": {
         "country": "Turks and Caicos Islands",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -2642,14 +2642,14 @@
     "fields": {
         "country": "Chad",
         "languages": [
-            "Arabic",
-            "Gorane",
-            "Hadjarai",
-            "Kanem-bornu",
-            "Mayo-kebbi",
-            "Ouaddai",
-            "Sara",
-            "Tandjile"
+            25,
+            96,
+            408,
+            409,
+            410,
+            411,
+            412,
+            413
         ]
     }
 },
@@ -2659,14 +2659,14 @@
     "fields": {
         "country": "Togo",
         "languages": [
-            "Ane",
-            "Ewe",
-            "Gurma",
-            "Kaby√©",
-            "Kotokoli",
-            "Moba",
-            "Naudemba",
-            "Watyi"
+            58,
+            186,
+            414,
+            415,
+            416,
+            417,
+            418,
+            419
         ]
     }
 },
@@ -2676,12 +2676,12 @@
     "fields": {
         "country": "Thailand",
         "languages": [
-            "Chinese",
-            "Khmer",
-            "Kuy",
-            "Lao",
-            "Malay",
-            "Thai"
+            80,
+            81,
+            264,
+            267,
+            270,
+            420
         ]
     }
 },
@@ -2691,9 +2691,9 @@
     "fields": {
         "country": "Tajikistan",
         "languages": [
-            "Russian",
-            "Tadzhik",
-            "Uzbek"
+            9,
+            45,
+            263
         ]
     }
 },
@@ -2703,8 +2703,8 @@
     "fields": {
         "country": "Tokelau",
         "languages": [
-            "English",
-            "Tokelau"
+            2,
+            421
         ]
     }
 },
@@ -2714,10 +2714,10 @@
     "fields": {
         "country": "Turkmenistan",
         "languages": [
-            "Kazakh",
-            "Russian",
-            "Turkmenian",
-            "Uzbek"
+            8,
+            9,
+            45,
+            250
         ]
     }
 },
@@ -2727,8 +2727,8 @@
     "fields": {
         "country": "East Timor",
         "languages": [
-            "Portuguese",
-            "Sunda"
+            24,
+            220
         ]
     }
 },
@@ -2738,8 +2738,8 @@
     "fields": {
         "country": "Tonga",
         "languages": [
-            "English",
-            "Tongan"
+            2,
+            32
         ]
     }
 },
@@ -2749,9 +2749,9 @@
     "fields": {
         "country": "Trinidad and Tobago",
         "languages": [
-            "Creole English",
-            "English",
-            "Hindi"
+            2,
+            26,
+            33
         ]
     }
 },
@@ -2761,9 +2761,9 @@
     "fields": {
         "country": "Tunisia",
         "languages": [
-            "Arabic",
-            "Arabic-French",
-            "Arabic-French-English"
+            25,
+            422,
+            423
         ]
     }
 },
@@ -2773,9 +2773,9 @@
     "fields": {
         "country": "Turkey",
         "languages": [
-            "Arabic",
-            "Kurdish",
-            "Turkish"
+            25,
+            43,
+            239
         ]
     }
 },
@@ -2785,9 +2785,9 @@
     "fields": {
         "country": "Tuvalu",
         "languages": [
-            "English",
-            "Kiribati",
-            "Tuvalu"
+            2,
+            265,
+            266
         ]
     }
 },
@@ -2797,12 +2797,12 @@
     "fields": {
         "country": "Taiwan",
         "languages": [
-            "Ami",
-            "Atayal",
-            "Hakka",
-            "Mandarin Chinese",
-            "Min",
-            "Paiwan"
+            209,
+            281,
+            424,
+            425,
+            426,
+            427
         ]
     }
 },
@@ -2812,20 +2812,20 @@
     "fields": {
         "country": "Tanzania",
         "languages": [
-            "Chaga and Pare",
-            "Sambaa",
-            "Bondei",
-            "Digo",
-            "Gogo",
-            "Ha",
-            "Haya",
-            "Hehet",
-            "Luguru",
-            "Makonde",
-            "Nyakusa",
-            "Nyamwezi",
-            "Shambala",
-            "Swahili"
+            47,
+            428,
+            429,
+            430,
+            431,
+            432,
+            433,
+            434,
+            435,
+            436,
+            437,
+            438,
+            439,
+            440
         ]
     }
 },
@@ -2835,16 +2835,16 @@
     "fields": {
         "country": "Uganda",
         "languages": [
-            "Acholi",
-            "Ganda",
-            "Gisu",
-            "Kiga",
-            "Lango",
-            "Lugbara",
-            "Nkole",
-            "Rwanda",
-            "Soga",
-            "Teso"
+            381,
+            441,
+            442,
+            443,
+            444,
+            445,
+            446,
+            447,
+            448,
+            449
         ]
     }
 },
@@ -2854,13 +2854,13 @@
     "fields": {
         "country": "Ukraine",
         "languages": [
-            "Belorussian",
-            "Bulgariana",
-            "Hungarian",
-            "Polish",
-            "Romanian",
-            "Russian",
-            "Ukrainian"
+            39,
+            40,
+            41,
+            45,
+            67,
+            71,
+            72
         ]
     }
 },
@@ -2870,7 +2870,7 @@
     "fields": {
         "country": "United States Minor Outlying Islands",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -2880,7 +2880,7 @@
     "fields": {
         "country": "Uruguay",
         "languages": [
-            "Spanish"
+            4
         ]
     }
 },
@@ -2890,18 +2890,18 @@
     "fields": {
         "country": "United States",
         "languages": [
-            "Chinese",
-            "English",
-            "French",
-            "German",
-            "Italian",
-            "Japanese",
-            "Korean",
-            "Polish",
-            "Portuguese",
-            "Spanish",
-            "Tagalog",
-            "Vietnamese"
+            2,
+            4,
+            23,
+            24,
+            28,
+            35,
+            37,
+            40,
+            78,
+            80,
+            205,
+            450
         ]
     }
 },
@@ -2911,12 +2911,12 @@
     "fields": {
         "country": "Uzbekistan",
         "languages": [
-            "Karakalpak",
-            "Kazakh",
-            "Russian",
-            "Tadzhik",
-            "Tatar",
-            "Uzbek"
+            9,
+            45,
+            250,
+            251,
+            263,
+            451
         ]
     }
 },
@@ -2926,7 +2926,7 @@
     "fields": {
         "country": "Holy See (Vatican City State)",
         "languages": [
-            "Italian"
+            28
         ]
     }
 },
@@ -2936,8 +2936,8 @@
     "fields": {
         "country": "Saint Vincent and the Grenadines",
         "languages": [
-            "Creole English",
-            "English"
+            2,
+            33
         ]
     }
 },
@@ -2947,9 +2947,9 @@
     "fields": {
         "country": "Venezuela",
         "languages": [
-            "Goajiro",
-            "Spanish",
-            "Warrau"
+            4,
+            452,
+            453
         ]
     }
 },
@@ -2959,7 +2959,7 @@
     "fields": {
         "country": "Virgin Islands, British",
         "languages": [
-            "English"
+            2
         ]
     }
 },
@@ -2969,9 +2969,9 @@
     "fields": {
         "country": "Virgin Islands, U.S.",
         "languages": [
-            "English",
-            "French",
-            "Spanish"
+            2,
+            4,
+            23
         ]
     }
 },
@@ -2981,15 +2981,15 @@
     "fields": {
         "country": "Vietnam",
         "languages": [
-            "Chinese",
-            "Khmer",
-            "Man",
-            "Miao",
-            "Muong",
-            "Nung",
-            "Thai",
-            "Tho",
-            "Vietnamese"
+            37,
+            80,
+            105,
+            264,
+            270,
+            454,
+            455,
+            456,
+            457
         ]
     }
 },
@@ -2999,9 +2999,9 @@
     "fields": {
         "country": "Vanuatu",
         "languages": [
-            "Bislama",
-            "English",
-            "French"
+            2,
+            23,
+            458
         ]
     }
 },
@@ -3011,8 +3011,8 @@
     "fields": {
         "country": "Wallis and Futuna",
         "languages": [
-            "Futuna",
-            "Wallis"
+            459,
+            460
         ]
     }
 },
@@ -3022,9 +3022,9 @@
     "fields": {
         "country": "Samoa",
         "languages": [
-            "English",
-            "Samoan",
-            "Samoan-English"
+            2,
+            31,
+            461
         ]
     }
 },
@@ -3034,8 +3034,8 @@
     "fields": {
         "country": "Yemen",
         "languages": [
-            "Arabic",
-            "Soqutri"
+            25,
+            462
         ]
     }
 },
@@ -3045,17 +3045,17 @@
     "fields": {
         "country": "South Africa",
         "languages": [
-            "Afrikaans",
-            "English",
-            "Ndebele",
-            "Northsotho",
-            "Southsotho",
-            "Swazi",
-            "Tsonga",
-            "Tswana",
-            "Venda",
-            "Xhosa",
-            "Zulu"
+            2,
+            87,
+            90,
+            163,
+            164,
+            317,
+            329,
+            463,
+            464,
+            465,
+            466
         ]
     }
 },
@@ -3065,12 +3065,12 @@
     "fields": {
         "country": "Zambia",
         "languages": [
-            "Bemba",
-            "Chewa",
-            "Lozi",
-            "Nsenga",
-            "Nyanja",
-            "Tongan"
+            32,
+            314,
+            467,
+            468,
+            469,
+            470
         ]
     }
 },
@@ -3080,11 +3080,533 @@
     "fields": {
         "country": "Zimbabwe",
         "languages": [
-            "English",
-            "Ndebele",
-            "Nyanja",
-            "Shona"
+            2,
+            87,
+            89,
+            314
         ]
     }
-}
-]
+},
+{
+    "model": "MainApp.language",
+    "pk": 1,
+    "fields": {
+        "language": "Dutch"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 2,
+    "fields": {
+        "language": "English"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 3,
+    "fields": {
+        "language": "Papiamento"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 4,
+    "fields": {
+        "language": "Spanish"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 5,
+    "fields": {
+        "language": "Balochi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 6,
+    "fields": {
+        "language": "Dari"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 7,
+    "fields": {
+        "language": "Pashto"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 8,
+    "fields": {
+        "language": "Turkmenian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 9,
+    "fields": {
+        "language": "Uzbek"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 10,
+    "fields": {
+        "language": "Ambo"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 11,
+    "fields": {
+        "language": "Chokwe"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 12,
+    "fields": {
+        "language": "Kongo"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 13,
+    "fields": {
+        "language": "Luchazi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 14,
+    "fields": {
+        "language": "Luimbe-nganguela"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 15,
+    "fields": {
+        "language": "Luvale"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 16,
+    "fields": {
+        "language": "Mbundu"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 17,
+    "fields": {
+        "language": "Nyaneka-nkhumbi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 18,
+    "fields": {
+        "language": "Ovimbundu"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 19,
+    "fields": {
+        "language": "Albaniana"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 20,
+    "fields": {
+        "language": "Greek"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 21,
+    "fields": {
+        "language": "Macedonian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 22,
+    "fields": {
+        "language": "Catalan"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 23,
+    "fields": {
+        "language": "French"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 24,
+    "fields": {
+        "language": "Portuguese"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 25,
+    "fields": {
+        "language": "Arabic"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 26,
+    "fields": {
+        "language": "Hindi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 27,
+    "fields": {
+        "language": "Indian Languages"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 28,
+    "fields": {
+        "language": "Italian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 29,
+    "fields": {
+        "language": "Armenian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 30,
+    "fields": {
+        "language": "Azerbaijani"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 31,
+    "fields": {
+        "language": "Samoan"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 32,
+    "fields": {
+        "language": "Tongan"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 33,
+    "fields": {
+        "language": "Creole English"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 34,
+    "fields": {
+        "language": "Canton Chinese"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 35,
+    "fields": {
+        "language": "German"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 36,
+    "fields": {
+        "language": "Serbo-Croatian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 37,
+    "fields": {
+        "language": "Vietnamese"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 38,
+    "fields": {
+        "language": "Czech"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 39,
+    "fields": {
+        "language": "Hungarian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 40,
+    "fields": {
+        "language": "Polish"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 41,
+    "fields": {
+        "language": "Romanian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 42,
+    "fields": {
+        "language": "Slovene"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 43,
+    "fields": {
+        "language": "Turkish"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 44,
+    "fields": {
+        "language": "Lezgian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 45,
+    "fields": {
+        "language": "Russian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 46,
+    "fields": {
+        "language": "Kirundi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 47,
+    "fields": {
+        "language": "Swahili"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 48,
+    "fields": {
+        "language": "Adja"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 49,
+    "fields": {
+        "language": "Aizo"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 50,
+    "fields": {
+        "language": "Bariba"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 51,
+    "fields": {
+        "language": "Fon"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 52,
+    "fields": {
+        "language": "Ful"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 53,
+    "fields": {
+        "language": "Joruba"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 54,
+    "fields": {
+        "language": "Somba"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 55,
+    "fields": {
+        "language": "Busansi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 56,
+    "fields": {
+        "language": "Dagara"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 57,
+    "fields": {
+        "language": "Dyula"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 58,
+    "fields": {
+        "language": "Gurma"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 59,
+    "fields": {
+        "language": "Mossi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 60,
+    "fields": {
+        "language": "Bengali"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 61,
+    "fields": {
+        "language": "Chakma"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 62,
+    "fields": {
+        "language": "Garo"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 63,
+    "fields": {
+        "language": "Khasi"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 64,
+    "fields": {
+        "language": "Marma"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 65,
+    "fields": {
+        "language": "Santhali"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 66,
+    "fields": {
+        "language": "Tripuri"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 67,
+    "fields": {
+        "language": "Bulgariana"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 68,
+    "fields": {
+        "language": "Romani"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 69,
+    "fields": {
+        "language": "Creole French"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 70,
+    "fields": {
+        "language": "Bosnian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 71,
+    "fields": {
+        "language": "Belorussian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 72,
+    "fields": {
+        "language": "Ukrainian"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 73,
+    "fields": {
+        "language": "Garifuna"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 74,
+    "fields": {
+        "language": "Maya Languages"
+    }
+},
+{
+    "model": "MainApp.language",
+    "pk": 75,
+    "fields": {
+        "language": 

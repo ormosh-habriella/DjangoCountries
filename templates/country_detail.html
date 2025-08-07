@@ -11,8 +11,8 @@
     <div>
         <h1>{{ country.country }}</h1>
         <ul>
-            {% for lang in country.languages %}
-                <li>{{ lang }}</li>
+            {% for lang in country.languages.all %}
+                <li>{{ lang.language }}</li>
             {% endfor %}
         </ul>
     </div>
