@@ -30,3 +30,13 @@ def languages_view(request):
         'languages': languages,
     }
     return render(request, 'languages.html', context)
+
+
+def language_detail(request, lang):
+    language = get_object_or_404(Language, language=lang)
+    countries = language.countries.all()
+    context = {
+        'language': language,
+        'countries': countries,
+    }
+    return render(request, 'language_detail.html', context)

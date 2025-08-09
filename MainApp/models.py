@@ -9,7 +9,7 @@ class Language(models.Model):
 
 class Country(models.Model):
     country = models.CharField(max_length=100, unique=True)
-    languages = models.ManyToManyField(Language)
+    languages = models.ManyToManyField(Language, related_name='countries')
 
     def __str__(self):
         return self.country
