@@ -24,4 +24,5 @@ urlpatterns = [
     path('countries-list/<str:country_name>/', views.country_detail, name='country-detail'),
     path('languages/', views.languages_view, name='languages'),
     path('languages/<str:lang>/', views.language_detail, name='language-detail'),
+    path('countries-list/letter/<str:letter>/', views.countries_by_letter, name='countries-by-letter'),
 ]

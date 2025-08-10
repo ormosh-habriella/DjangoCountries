@@ -1,25 +1,24 @@
-{% extends 'base.html' %}
+{% extends "base.html" %}
 
 {% block title %}
-    Список стран
+    Countries that start with "{{ letter }}"
 {% endblock %}
 
 {% block content %}
     <div>
-        <h1>Список стран</h1>
+        <h1>Countries that start with "{{ letter }}"</h1>
         <div class="not-prose flex flex-wrap gap-2">
             {% for letter in alphabet %}
-
                 <a href="{% url 'countries-by-letter' letter=letter %}"
                    class="text-lime-600 px-2 py-1 border rounded hover:bg-lime-500 hover:text-white">
                     {{ letter }}
                 </a>
             {% endfor %}
-        </div>
         <ol>
             {% for country in countries %}
                 <li><a href="{% url 'country-detail' country.country %}">{{ country.country }}</a></li>
             {% endfor %}
         </ol>
+        </div>
     </div>
 {% endblock %}
