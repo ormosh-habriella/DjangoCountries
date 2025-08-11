@@ -2,20 +2,26 @@ from django.shortcuts import render, get_object_or_404
 import json
 from django.http import Http404
 from MainApp.models import Country, Language
+from django.core.paginator import Paginator
 
 
 def home_page(request):
     return render(request, 'home.html')
 
-def countries_list(request):
+def countries_list(request, num_countries_on_page=10):
     alphabet = [
         'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M',
         'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'
     ]
     countries = Country.objects.all()
+
+    paginator = Paginator(countries, num_countries_on_page)
+    page_number = request.GET.get("page")
+    page_obj = paginator.get_page(page_number)
+
     context = {
-        'countries': countries,
         'alphabet': alphabet,
+        'page_obj': page_obj,
     }
     return render(request, 'countries_list.html', context)
 
