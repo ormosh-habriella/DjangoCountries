@@ -1,15 +1,19 @@
 {% extends 'base.html' %}
 
 {% block title %}
-    Список языков
+    Languages list
 {% endblock %}
 
 {% block content %}
     <div>
-        <h1>Список языков</h1>
-        <ol>
+        <h1>Languages list</h1>
+        <ol class="list-group list-group-numbered">
             {% for lang in languages %}
-                <li><a href="{% url 'language-detail' lang.language %}">{{ lang.language }}</a></li>
+                <li class="list-group-item">
+                    <a href="{% url 'language-detail' lang.language %}" class="link">
+                    {{ lang.language }}
+                    </a>
+                </li>
             {% endfor %}
         </ol>
     </div>

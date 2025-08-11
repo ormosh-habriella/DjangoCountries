@@ -1,19 +1,19 @@
 {% extends 'base.html' %}
 
 {% block title %}
-    Главная страница
+    Home page
 {% endblock %}
 
 {% block content %}
 <div class="d-flex justify-content-center align-items-center vh-100">
     <div class="text-center">
-        <h1>Добро пожаловать в DjangoCountries!</h1>
+        <h1>Welcome to DjangoCountries!</h1>
         <a href="{% url 'countries-list' %}" class="btn" role="button"
         style="display: inline-block; width: 150px; background-color: darkcyan; color: #2c3933; font-weight: bolder; margin: 5px">
-            Страны</a>
+            Countries</a>
         <a href="{% url 'languages' %}" class="btn" role="button"
         style="display: inline-block; width: 150px; background-color: #649b8a; color: #2c3933; font-weight: bolder; margin: 5px">
-            Языки</a>
+            Languages</a>
     </div>
 </div>
 {% endblock %}

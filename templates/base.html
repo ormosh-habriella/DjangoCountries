@@ -15,6 +15,38 @@
         main {
             flex: 1;
         }
+        .link {
+          color: black;
+          text-decoration: none;
+          transition: color 0.2s ease;
+        }
+
+        .link:hover {
+          color: gray;
+          text-decoration: underline;
+        }
+        .alphabet-btn {
+          color: darkcyan;
+          border-color: #494949;
+        }
+
+        .alphabet-btn:hover {
+          background-color: darkcyan;
+          color: white;
+        }
+        .page-link {
+            color: #649b8a;
+        }
+        .page-link:hover {
+            color: white;
+            background-color: #649b8a;
+        }
+        .page-item.active .page-link {
+            color: white;
+            background-color: #649b8a;
+            border-color: #649b8a;
+        }
+
     </style>
 </head>
 <body>
@@ -28,10 +60,10 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ms-auto">
         <li class="nav-item">
-          <a class="nav-link" href="{% url 'countries-list' %}">Страны</a>
+          <a class="nav-link" href="{% url 'countries-list' %}">Countries</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="{% url 'languages' %}">Языки</a>
+          <a class="nav-link" href="{% url 'languages' %}">Languages</a>
         </li>
       </ul>
     </div>
